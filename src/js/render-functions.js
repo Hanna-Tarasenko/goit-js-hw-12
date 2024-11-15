@@ -1,5 +1,5 @@
-// import iziToast from 'izitoast';
-// import 'izitoast/dist/css/iziToast.min.css';
+import iziToast from 'izitoast';
+import 'izitoast/dist/css/iziToast.min.css';
 
 // export function createGalleryMarkup(images, shoudAppend = false) {
 //   const galleryContainer = document.querySelector('.image-gallery');
