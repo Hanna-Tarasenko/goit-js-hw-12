@@ -34,7 +34,6 @@ searchForm.addEventListener('submit', async event => {
   page = 1;
   loadMoreBtn.style.display = 'none';
   galleryContainer.innerHTML = '';
-
   loader.style.display = 'block';
 
   try {
